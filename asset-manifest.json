@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/REENAKAJAL/TestReact.git/static/css/main.073c9b0a.css",
-    "main.js": "/REENAKAJAL/TestReact.git/static/js/main.a1c9d17e.js",
-    "static/js/787.d3befce1.chunk.js": "/REENAKAJAL/TestReact.git/static/js/787.d3befce1.chunk.js",
-    "static/media/logo.svg": "/REENAKAJAL/TestReact.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/REENAKAJAL/TestReact.git/index.html",
-    "main.073c9b0a.css.map": "/REENAKAJAL/TestReact.git/static/css/main.073c9b0a.css.map",
-    "main.a1c9d17e.js.map": "/REENAKAJAL/TestReact.git/static/js/main.a1c9d17e.js.map",
-    "787.d3befce1.chunk.js.map": "/REENAKAJAL/TestReact.git/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/REENAKAJAL/TestReact/static/css/main.073c9b0a.css",
+    "main.js": "/REENAKAJAL/TestReact/static/js/main.a865826c.js",
+    "static/js/787.d3befce1.chunk.js": "/REENAKAJAL/TestReact/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/REENAKAJAL/TestReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/REENAKAJAL/TestReact/index.html",
+    "main.073c9b0a.css.map": "/REENAKAJAL/TestReact/static/css/main.073c9b0a.css.map",
+    "main.a865826c.js.map": "/REENAKAJAL/TestReact/static/js/main.a865826c.js.map",
+    "787.d3befce1.chunk.js.map": "/REENAKAJAL/TestReact/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a1c9d17e.js"
+    "static/js/main.a865826c.js"
   ]
 }
